@@ -34,7 +34,7 @@ console.log (Fa);
 
 let gitcommit = true;
 
-let gitcommint = false; /* making commit from github *\
+let gitcommnt = false; /* making commit from github *\
 
 
 
